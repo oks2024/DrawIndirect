@@ -14,8 +14,8 @@ DrawInstancedIndirect: 0.42ms
 
 For 9 000 000 vertices:
 
-DrawInstanced: 0.31ms
-DrawInstancedIndirect: 0.42ms
+DrawInstanced: 2.45ms
+DrawInstancedIndirect: 4.56ms
 
 On my NVIDIA GT 630m:
 
